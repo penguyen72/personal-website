@@ -30,9 +30,9 @@ export default function Home() {
             >
               Georgia Tech
             </Link>{' '}
-            in 2023 with dual bachelor's degrees in Industrial Engineering and
-            Computer Science. As of 2023, I am pursing a Master's degree in
-            Computer Science at{' '}
+            in 2023 with dual bachelor&apos;s degrees in Industrial Engineering
+            and Computer Science. As of 2023, I am pursing a Master&apos;s
+            degree in Computer Science at{' '}
             <Link
               className="hover:underline font-semibold"
               href="https://www.gatech.edu/"
@@ -57,10 +57,10 @@ export default function Home() {
           <p>
             I am passionate about gaining new experiences, from tasting
             different foods to trying new activities. As an adrenaline junkie,
-            I'm always up for thrilling activities like riding roller coasters
-            and white water rafting. One day, I hope to go skydiving and force
-            my girlfriend to come with me. I also love to travel and dream of
-            visiting the{' '}
+            I&apos;m always up for thrilling activities like riding roller
+            coasters and white water rafting. One day, I hope to go skydiving
+            and force my girlfriend to come with me. I also love to travel and
+            dream of visiting the{' '}
             <Link
               className="hover:underline font-semibold"
               href="https://www.gardensbythebay.com.sg/"

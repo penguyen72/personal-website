@@ -12,7 +12,7 @@ export function WorkExperienceSection() {
       date: 'Jan 2023 - Present',
       description: (
         <p className="text-sm">
-          I am a full stack software engineer for Tesla's Supply Chain
+          I am a full stack software engineer for Tesla&apos;s Supply Chain
           Automation team. I build web applications for high level executives
           and global supply managers at Tesla to help assist in company wide
           cost reduction oppurtunities. I was previously an intern on the same

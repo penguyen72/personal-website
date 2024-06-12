@@ -29,9 +29,9 @@ export function InternshipExperienceSection() {
         <p>
           I interned at Tarsier as a backend engineer, where I developed REST
           API endpoints using Flask for data acquisition, preprocessing, and
-          inference to support the company's drone detection systems. Moreover,
-          I set up and debugged multiple Docker containers to streamline and
-          enhance these systems.
+          inference to support the company&apos;s drone detection systems.
+          Moreover, I set up and debugged multiple Docker containers to
+          streamline and enhance these systems.
         </p>
       ),
     },
