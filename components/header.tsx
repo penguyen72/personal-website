@@ -21,7 +21,7 @@ const Header = () => {
     <header className="fixed top-0 z-50 w-full border-b border-border/40 bg-background/95 backdrop-blur supports-[backdrop-filter]:bg-background/60">
       <div className="flex h-14 items-center px-4 justify-between">
         <p className="font-semibold text-xl">Peyton Nguyen</p>
-        <div>
+        <div className="hidden md:flex">
           <Button variant="link" onClick={() => router.push('/')}>
             About Me
           </Button>
@@ -32,7 +32,7 @@ const Header = () => {
             Cookbook
           </Button>
         </div>
-        <div>
+        <div className="hidden md:flex">
           <Button
             variant="ghost"
             size="icon"
