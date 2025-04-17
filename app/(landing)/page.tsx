@@ -83,6 +83,22 @@ export default function Home() {
         <p className="text-2xl font-semibold">Leetcode Stats</p>
         <LeetcodeCalendar />
       </section>
+      <div className="flex gap-1 items-center ml-auto">
+        <p>
+          Proud member of{' '}
+          <Link className="underline" href="https://leetpals.com">
+            Leetpals
+          </Link>
+        </p>
+        <a href="https://leetpals.com/next?host=peynguyen.com">
+          <Image
+            alt="badge"
+            src="https://leetpals.com/badge?host=peynguyen.com"
+            width={24}
+            height={24}
+          />
+        </a>
+      </div>
     </div>
   )
 }
